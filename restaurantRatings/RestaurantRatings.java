@@ -1,8 +1,5 @@
 /*
 * Ugochukwu Umeano
-* umu23@drexel.edu
-* CS338:GUI, Assignment 1
-* 
 */
 
 package restaurantRatings;
